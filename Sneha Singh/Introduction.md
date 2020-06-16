@@ -6,7 +6,7 @@ Hello Everyone :smiley: Good to see you at my profile :wink:
 **Sneha Singh** here , I am currently persuing Btech CSE 2nd year from Banasthali Vidyapeeth.
 
 ***LIFE MANTRA***
->*These moments will never come back :simple_smile: so live your life to fullest :wink:*
+>*These moments will never come back :smirk: so live your life to fullest :wink:*
 
 qualifications:
 - [x] 10th CBSE
