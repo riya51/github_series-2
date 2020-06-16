@@ -1,14 +1,13 @@
 #### Task 1:
-
 **1. What do you mean by git and GitHub?**
 
-> Git:
+> **Git:**
 Git is a free, open-source tool which is used to track changes to source code over a period of time. A Distributed Version Control System, that means every machine will have its own copy of the repository, in which changes to code are stored locally. it is useful in coordinating work among multiple people working on a project. Its style of working as in
 Commits, branching and merging is faster than centralized version control systems like CVS, SVN.
 The integrity of the code is easier to verify on Git. It uses SHA1 cryptographically secure hashing. The hashes are unique to each modification. If anyone changes a modification, the hashes will not match.
 This property of Git makes it harder for anyone to sneak in code changes surreptitiously. That is why people interested to be a contributor, need to grand permission from concerned authorities, make a colon of the code to their system environment and commit changes to their local or server repository.
 
-> GitHub:
+> **GitHub:**
 GitHub is a cloud-based Git repository hosting service. While Git is a command line tool, GitHub provides a web-based graphical interface. It provides various different features that make it easy for a team to work collaboratively on a project.
 
 **2. Why GitHub is so popular and used in most of the projects?**
@@ -41,6 +40,8 @@ this concept of cloud storage can also be used by non-techies .This will helps m
 
 
 #### Task 2:
+
+
 **A. How git workflow works?**
 
 As we know github facilitates many people to team up and and work on  a project in fragments.
@@ -136,6 +137,6 @@ Yes the master branch can be deleted .
 
 In ***Git Bash***, write the command `git branch –d <Branch Name>` and the branch will be deleted.
 
-Procedure for deleting in ***git hub***:
+Procedure for deleting in ***Git hub***:
 On git hub, navigate to the main page of the repository. Above the list of files check branches.
 Scroll to the branch you want to delete, then click on the delete icon. 
