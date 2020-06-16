@@ -83,3 +83,6 @@ git push origin :master
 
 **Qs.5 How can we delete a Branch?**
 Ans.Delete a branch with git branch -d <branch> . The -d option will delete the branch only if it has already been pushed and merged with the remote branch. Use -D instead if you want to force the branch to be deleted, even if it hasn't been pushed or merged yet.
+
+
+https://github.com/codewayy/github_series-2/pull/5
