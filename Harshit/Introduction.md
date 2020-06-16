@@ -1,10 +1,12 @@
-Hi everyone.
+# INTRODUCTION:
 
-My name is Harshit Awasthi...curently pursuing BTech from DIT UNIVERSITY.
+**Hi everyone.
 
-I belong to dehradun.
+**My name is Harshit Awasthi...curently pursuing BTech from DIT UNIVERSITY.
 
-I love to play cricket,and like travelling to new places..
+**I belong to dehradun.
 
-I am learnig Github because it is new thing for me,which create a strong interest for this...and seriously it is amazing.
+**I love to play cricket,and like travelling to new places..
+
+**I am learnig Github because it is new thing for me,which create a strong interest for this...and seriously it is amazing.
 

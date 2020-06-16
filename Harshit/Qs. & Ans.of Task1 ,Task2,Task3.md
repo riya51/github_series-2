@@ -1,4 +1,4 @@
-#TASK:1
+# TASK:1
 
 
 **Qs.1 What do you mean by git and GitHub?**
@@ -27,7 +27,7 @@ Sourceforge
 Ans.Git simplifies the process of working with other people and makes it easy to collaborate on projects. Team members can work on files and easily merge their changes in projects.
 
 
-#TASK:2
+# TASK:2
 
 **Qs.1 How git work flow work?**
 Ans.A Git Workflow is a recipe or recommendation for how to use Git to accomplish work in a consistent and productive manner. Git workflows encourage users to leverage Git effectively and consistently. Git offers a lot of flexibility in how users manage changes.
@@ -53,7 +53,7 @@ Ans.Git generally requires a non-empty message because providing a meaningful co
 But we can leave the commit message blank.
 
 
-#Task:3
+# Task:3
 
 **Qs.1 What is meant by the term fork and clone?**
 Ans. A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project. Most commonly, forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea.
