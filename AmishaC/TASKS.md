@@ -3,18 +3,22 @@
 My name is Amisha. I am first year student at Amity University Noida.
 
 1. What do you mean by Git and Github?
+
 Ans.
 - GIT:   Git is a distributed version control system. It keeps track of the history of the project in the local machine. It has a key features called collaboration which allows two or more people to work on the same project at the same time.
 - GITHUB: Github is a web cider or web service which provides a web based graphical interface to perform git tasks.
 
 2. Why github is so popular and used in most of the projects?
+
 Ans: github is so popular because it provides secure cloud storage for source code, easy project management and easy code hosting.
 
 3. What is version control system? How is git a VCS?
+
 Ans: Version control system is basically a tool which helps in keeping the track of the work and changes made in the project and keep every team member working on the latest version.
 Git is a distributed version control system as it allows the user to keep a local repository of their work in their local system. It tracks all the changes and history of the project.
 
 4. What are other platforms similar to Github?
+
 Ans:
 - Gitlab
 - launchpad
@@ -23,11 +27,13 @@ Ans:
 - SourceForge
 
 5. Why are you interested in learning of git and github?
+
 Ans: it is because I want to learn new things. And after doing this task I'm find git quite interesting and want to learn more about it.
 
 ## Task 2
 
 A) How git workflow works?
+
 ans: git workflow includes four fundamental elements:
 1) workspace: it is your local directory which can be-
  - commited(changes are stored in local repository),
@@ -47,36 +53,45 @@ OPPOSITE WORKFLOW:
 3) pull: to directly send files from remote repository to workspace
 
 B) what are different stages of git as commit and add?
+
 ans- 1) untracked
      2) staged
      3) commit
 
 C) is it possible to do a git commit before git add. if you have made any changes. explain why?
+
 ans: no. we have to add file first.
 
 D) Why git diff used?
+
 ans: it shows the difference between workspace and index.
 
 E) Can we leave commit msg as blank?
+
 ans: no.
 
 ## Task-3
 
 a) What is meant by fork and clone?
+
 ans:FORK: fork means creating someone else's project as your personal copy. it acts as the bridge between the original repository and your personal copy. 
 when you want to contribute to someone else's project or you want to start our own project using other's project then this process is known as forking.
 CLONE: clone is used to create local copy of the remote repository.
 
 b) what are branches in github?
+
 ans: git branches are basically files or projects inside a repository which are initialised by some other contributers or the project head himself to make some changes or to add some new features to the project without making any change to the original project.
 
 c) what is PR?
+
 ans:Pull Requets or PR is a feature which lets you make other contributers of the projects about the useful changes made by you and you can request them to merge it to the project through PR.
 
 d)can we delete the master branch?
+
 ans: yes we can delete the master branch but first we have t5o create new branches.
 
 e) how can you delete a brach?
+
 ans:to delete local branch: $ git branch -d branch name
     to delete remote branch: $ git push remote name --delete branch name
  
