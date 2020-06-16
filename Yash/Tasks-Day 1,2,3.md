@@ -1,4 +1,4 @@
-#Task 1:
+# Task 1:
 
 **1.What do you mean by Git and GitHub?**
 *Git* is a distributed version control system which tracks changes to source code over time. It is a command line tool that requires an interface to interact with the world. It stores and catalogs changes in code in a repository. Multiple developers can work simuntaneously with no code conflicts. It uses repositories to store the changes made in source code.
@@ -32,7 +32,7 @@ The other Platforms similar to GitHub are:
 I want to learn Git and GitHub to enhance my knowledge. Learning Git and GitHub will help boost my potential and help me perform open source development.
 
 
-#Task 2:
+# Task 2:
 
 ##The following is a link to the GitHub Repository I have created: https://github.com/Yash19V/Git-Series
 
@@ -61,9 +61,9 @@ Diff command is used in git to track the difference between the changes made on 
 *Yes*, we can leave the commit message as a blank. But, generally a non-empty message is preferred because providing a meaningful commit message is part of good development practice.
 
 
-#Task – 3
-##First Pull: https://github.com/codewayy/github_series/pull/5
-##Second pull: https://github.com/codewayy/github_series/pull/7
+# Task – 3
+## First Pull: https://github.com/codewayy/github_series/pull/5
+## Second pull: https://github.com/codewayy/github_series/pull/7
 
 **1. What is meant by the term fork and clone?**
 First you fork the repo that you are interested in, so that you have a separate repo that is associated with your GitHub account. Then, You clone the repo and perform your work and You may push it to your forked repo whenever you want.
