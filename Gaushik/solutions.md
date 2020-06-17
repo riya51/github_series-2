@@ -78,6 +78,7 @@ Yes we can delete master branch by following certain steps
 You need to change your GitHub repo default branch.
 You need to go to the GitHub page for your forked repository, and click on the “Settings” button.
 Confirm that you want to change your default branch.
+
 **e. How can we delete a branch? (Explore a bit about this yourself)**/Answer
 
 To delete the local branch: $ git branch -d branch name
