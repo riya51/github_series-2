@@ -1,9 +1,10 @@
  # Task -1
-**1.What do you mean by git and GitHub?**
+**1.What do you mean by git and GitHub?**/solutions
+
 Git:
- *Git is a free, open-source tool which is used to track changes to source code over a period of time. A Distributed Version Control System, that means every machine will have its own copy of the repository, in which changes to code are stored locally. it is useful in coordinating work among multiple people working on a project*
+ Git is a free, open-source tool which is used to track changes to source code over a period of time. A Distributed Version Control System, that means every machine will have its own copy of the repository, in which changes to code are stored locally. it is useful in coordinating work among multiple people working on a project
 GitHub:
-* GitHub is a cloud-based Git repository hosting service. While Git is a command line tool, GitHub provides a web-based graphical interface. It provides various different features that make it easy for a team to work collaboratively on a project.*
+ GitHub is a cloud-based Git repository hosting service. While Git is a command line tool, GitHub provides a web-based graphical interface. It provides various different features that make it easy for a team to work collaboratively on a project.
  
 **2. Why GitHub is so popular and used in most of the projects?**
  GitHub is popular because it is a web-based service which provides cloud storage for source code. It has an immensely powerful community and a very large user base thus making it the world's largest software development platform.
