@@ -1,4 +1,4 @@
-#### Task 1:
+# Task 1:
 **1. What do you mean by git and GitHub?**
 
 > **Git:**
@@ -39,7 +39,7 @@ Other than domain of computer science
 this concept of cloud storage can also be used by non-techies .This will helps me to boost my career and improve my knowledge. I am looking forward to this course in order to be a contributor someday.
 
 
-#### Task 2:
+# Task 2:
 
 
 **A. How git workflow works?**
@@ -76,13 +76,13 @@ Every project under the distributed version control system Git, goes through thr
 - Staged 
 - Committed.
 
-## Modified:
+### Modified:
 This simply facilitate team members to make modifications in their local repository without hampering original software.
-## Staged:
+### Staged:
 Now that we have made some modifications to software in our local repository, we want to apply them this is done by git command
 ` git add.  ` this will keep track of the new files been added and modified. In case we don't add the file and go with git command
 ` git status `, it will show us files and modification present in our project repository but not added and git will not keep track of these modifications.
-## Commit:
+### Commit:
 This is the final stage, as this stage finally applies the new changes to the remote repository.
 So, a commit is a set of new files that are being added to a project as part of the modification. Each commit represents the changes made to project in the past, with the details about the time at which commit was made and the author of the code. So, finally when you make a commit, and it gets committed, then this simply means that you have successfully applied a certain modification to the code.
  
@@ -102,7 +102,7 @@ In order to know this git command
 `git log --author="name of the author whose commit is to be traced"`.
 This will display day, date, time, author's name and commit message.
 
-#### Task 3
+# Task 3
 
 Link to PR via master branch:
 https://github.com/codewayy/github_series/pull/25
