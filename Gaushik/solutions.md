@@ -6,11 +6,13 @@ Git:
 GitHub:
  GitHub is a cloud-based Git repository hosting service. While Git is a command line tool, GitHub provides a web-based graphical interface. It provides various different features that make it easy for a team to work collaboratively on a project.
  
-**2. Why GitHub is so popular and used in most of the projects?**
+**2. Why GitHub is so popular and used in most of the projects?**/solutions
+
  GitHub is popular because it is a web-based service which provides cloud storage for source code. It has an immensely powerful community and a very large user base thus making it the world's largest software development platform.
  
-**3. What is a version control system? How Git is a VCS?**
-         *A Version Control System is a Source Code Management tool that records the changes made to a file and helps in maintaining version history, hence enabling recalling of earlier specific versions later on Git is a VCS because it provides  change history of a file and branching and merging features.*
+**3. What is a version control system? How Git is a VCS?**/solutions
+
+         A Version Control System is a Source Code Management tool that records the changes made to a file and helps in maintaining version history, hence enabling recalling of earlier specific versions later on Git is a VCS because it provides  change history of a file and branching and merging features.
 **4. What are the other platforms similar to GitHub?**
                       *I.        Source Forge
                      II.        Bit Bucket Cloud
