@@ -1,5 +1,6 @@
 #H1
-*italicized text* Task -1
+*italicized text* 
+Task -1
 1.What do y*italicized text* ou mean by git and GitHub?
  Git:
  Git is a free, open-source tool which is used to track changes to source code over a period of time. A Distributed Version Control System, that means every machine will have its own copy of the repository, in which changes to code are stored locally. it is useful in coordinating work among multiple people working on a project
@@ -20,7 +21,8 @@ GitHub:
            Git simplifies the process of working with other people and makes it easy to collaborate on projects. This allows multiple people to work on the same files at the same time. This helps me to boost my career and improve my knowledge.
 	
 	
-*italicized text*	Task -2
+*italicized text*	
+Task -2
 Hello Everyone,
 My name is Gaushik.I am a final year student in Amrita University.
 https://github.com/Gaushik-007/git_tutorials
