@@ -1,5 +1,6 @@
-Task -1
-1.What do you mean by git and GitHub?
+#H1
+*italicized text* Task -1
+1.What do y*italicized text* ou mean by git and GitHub?
  Git:
  Git is a free, open-source tool which is used to track changes to source code over a period of time. A Distributed Version Control System, that means every machine will have its own copy of the repository, in which changes to code are stored locally. it is useful in coordinating work among multiple people working on a project
 GitHub:
@@ -19,7 +20,7 @@ GitHub:
            Git simplifies the process of working with other people and makes it easy to collaborate on projects. This allows multiple people to work on the same files at the same time. This helps me to boost my career and improve my knowledge.
 	
 	
-	Task -2
+*italicized text*	Task -2
 Hello Everyone,
 My name is Gaushik.I am a final year student in Amrita University.
 https://github.com/Gaushik-007/git_tutorials
@@ -34,7 +35,7 @@ https://github.com/Gaushik-007/git_tutorials
 5. Can we leave the commit message as blank?
    	Git generally requires a non-empty message because providing a meaningful commit message is part of good development practice and good repository stewardship.
              
-	     TASK-3
+	     *italicized text*     TASK-3
 Pull request 1: https://github.com/codewayy/github_series/pull/23
 Pull request 2: https://github.com/codewayy/github_series/pull/30
 a. What  is meant by the term fork and clone?
@@ -60,5 +61,7 @@ Confirm that you want to change your default branch.
 e. How can we delete a branch? (Explore a bit about this yourself)
 To delete the local branch: $ git branch -d branch name
 To delete the remote branch: $ git push remote name --delete branch name
+```
+
 
 
