@@ -1,4 +1,4 @@
- #Task -1
+ # Task -1
 **1.What do you mean by git and GitHub?**
 Git:
  *Git is a free, open-source tool which is used to track changes to source code over a period of time. A Distributed Version Control System, that means every machine will have its own copy of the repository, in which changes to code are stored locally. it is useful in coordinating work among multiple people working on a project*
@@ -22,7 +22,7 @@ GitHub:
 	
 	
 	
-##Task -2
+## Task -2
 
 https://github.com/Gaushik-007/git_tutorials
 **1.How git work flow works?**
@@ -36,7 +36,7 @@ https://github.com/Gaushik-007/git_tutorials
 **5. Can we leave the commit message as blank?**
    	*Git generally requires a non-empty message because providing a meaningful commit message is part of good development practice and good repository stewardship.*
              
-	     ###TASK-3
+### TASK-3
 Pull request 1: https://github.com/codewayy/github_series/pull/23
 Pull request 2: https://github.com/codewayy/github_series/pull/30
 **a. What  is meant by the term fork and clone?**
