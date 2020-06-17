@@ -52,3 +52,27 @@ Q. 4) why is git diff is used?
    It compares the commited file with the file in staged area.
 Q. 5) Can we leave the commit messages as blank?
 --Yes,it can be done by using  ( git commit -a --allow-empty-message -m "")
+
+                           Task 3 Questions and Answers
+
+Hi everyone I am Anshul Hedau.
+Day 3 Task:
+https://github.com/codewayy/github_series/pull/38
+https://github.com/codewayy/github_series/pull/36
+Q. 1) What is meant by the term fork and clone?
+--Fork:It means to make a copy of orignal repository in your account.
+We can modify the repository without harming the orignal one.
+Clone:It means to copy the remote repository to a local repository.
+Forking is done on github and cloning is done on git.
+Q. 2) What are the branches of github?
+--Branches are effectively a pointer to a snapshot of our changes.
+Each repository can have one or more branches.
+The default branch name is master branch.
+Once we have made changes in the file we can merged it with the master branch.
+Q. 3) What is PR?
+--PR:it stands for Pull Request.
+PR are usually make to the owner of the forked repository so that he can  review the changes and then approve.
+Q. 4) Can we delete the master branch,if not then why?
+--Yes,but before deleting we have to set another branch as a default branch.
+Q. 5) How can we delete a branch?
+--By using command:- git branch -d branchnam
