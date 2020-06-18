@@ -81,8 +81,11 @@ then there is "Clone or Download" option with green tab.
 - On Git Bash Terminal change the directory using cd command wherever you want to save your cloned file. Commands to change the directory to Desktop
 
 `<cd ~>`
+
 `<cd ..>`
+
 `<cd <PC USER>>`
+
 `<cd Desktop>`
 
 - On Git Bash Terminal write git clone To clone
