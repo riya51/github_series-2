@@ -5,4 +5,7 @@
  1. Video games.
  2. Trekking.
  3. Movies. 
-* In this Github series I learnt many new things and now I can push my project to github and also can pull or clone any project. 
+* In this Github series I learnt many new things and now I can push my project to github and also can pull or clone any project.
+
+Visit my profile:
+[Linkdin](https://www.linkedin.com/in/vatsal-shah-8664a0170)
