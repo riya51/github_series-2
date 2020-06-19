@@ -1,10 +1,10 @@
-#GIT
+# GIT
 -----------------
 It is a open source licensed, version control system(a system that records changes to a file or set of files over time so that we can recall specific versions later), that helps in managing and keeping track of the source code history.It is installed locally on the user's computer. 
 Version control system is a software tool that helps a software team manage changes to source code.It keeps track of every modification to the code in a special kind of database.If a mistake is made, developers can turn back to the previous versions and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members.
 Git is a version control system as it helps in managing and keeping track of the source code history.Also, it allows developers to work on the same project at the same time without any disturbances.
 
-#GITHUB
+# GITHUB
 -----------
 GitHub is a cloud-based hosting service which is built around the Git tool and helps in managing Git repositories.
 GitHub is the world’s largest software development platform. It provides cloud storage for source code and supports all popular programming languages.
@@ -17,7 +17,7 @@ Other than github there are sevral platforms present those are:
 - AWS CodeCommit
 
 
-###TERMINOLOGIES
+### TERMINOLOGIES
 ------------------
 -**Repository** : Git repository is a kind of a directory that stores all the files, folders, and content needed for your project. It is the object database of the project, storing everything from the files themselves, to the versions of those files, commits, deletions, etc. They are not limited by user, and can be shared and copied.
 
@@ -44,7 +44,7 @@ Other than github there are sevral platforms present those are:
 -**Issues** : Issues are a great way to keep track of tasks, enhancements, and bugs for the projects. 
 
 
-###GIT WORKFLOW
+### GIT WORKFLOW
 ----------------
 The four fundamental elements in the GIT workflow are:
 - Workspace-It is our local directory
@@ -66,7 +66,7 @@ In a Git workflow:
 	- to make the files visible in the local directory merge command is used to get the files from the local repo.
 
 
-#HOW TO USE GITHUB
+### HOW TO USE GITHUB
 -------------------
 - Initialisig the git repository : <git init>
 
