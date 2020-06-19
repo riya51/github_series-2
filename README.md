@@ -1,7 +1,4 @@
 # Git and Github Series
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 ![xodewayy.png](https://www.dropbox.com/s/xjgb5hp4juz2quf/xodewayy.png?dl=0&raw=1)
 
 Codewayy is a community that aims to help students all over the world to excel in their skills and start their programming journey. Codewayy has a team of professional mentors who are always available to guide students to complete the tasks, review their work, and also help them in case of any doubts. 
