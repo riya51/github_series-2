@@ -13,7 +13,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Alankriss07"><img src="https://avatars3.githubusercontent.com/u/46962797?v=4" width="100px;" alt=""/><br /><sub><b>Alankriss07</b></sub></a><br /><a href="https://github.com/codewayy/github_series-2/commits?author=Alankriss07" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/amisha-chauhan"><img src="https://avatars3.githubusercontent.com/u/66894429?v=4" width="100px;" alt=""/><br /><sub><b>amisha-chauhan</b></sub></a><br /><a href="https://github.com/codewayy/github_series-2/commits?author=amisha-chauhan" title="Code">💻</a></td>
   </tr>
 </table>
