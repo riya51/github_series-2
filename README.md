@@ -26,9 +26,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/riya51"><img src="https://avatars3.githubusercontent.com/u/58393932?v=4" width="30px;" alt=""/><br /><sub><b>riya51</b></sub></a><br /><a href="https://github.com/codewayy/github_series-2/commits?author=riya51" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/amisha-chauhan"><img src="https://avatars3.githubusercontent.com/u/58393932?v=4" width="30px;" alt=""/><br /><sub><b>riya51</b></sub></a><br /><a href="https://github.com/codewayy/github_series-2/commits?author=amisha-chauhan" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/yash3110"><img src="https://avatars3.githubusercontent.com/u/58393932?v=4" width="30px;" alt=""/><br /><sub><b>riya51</b></sub></a><br /><a href="https://github.com/codewayy/github_series-2/commits?author=yash3110" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/riya51"><img src="https://avatars3.githubusercontent.com/u/58393932?v=4" width="50px;" alt=""/><br /><sub><b>riya51</b></sub></a><br /><a href="https://github.com/codewayy/github_series-2/commits?author=riya51" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/amisha-chauhan"><img src="https://avatars0.githubusercontent.com/u/66894429?s=400&v=4" width="50px;" alt=""/><br /><sub><b>amisha-chauhan</b></sub></a><br /><a href="https://github.com/codewayy/github_series-2/commits?author=amisha-chauhan" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/yash3110"><img src="https://avatars0.githubusercontent.com/u/66896058?s=400&v=4" width="50px;" alt=""/><br /><sub><b>yash3110</b></sub></a><br /><a href="https://github.com/codewayy/github_series-2/commits?author=yash3110" title="Code">💻</a></td>
   </tr>
 </table>
 
