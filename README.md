@@ -1,6 +1,6 @@
 # Git and Github Series
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ![xodewayy.png](https://www.dropbox.com/s/xjgb5hp4juz2quf/xodewayy.png?dl=0&raw=1)
 
@@ -26,7 +26,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/riya51"><img src="https://avatars3.githubusercontent.com/u/58393932?v=4" width="100px;" alt=""/><br /><sub><b>riya51</b></sub></a><br /><a href="https://github.com/codewayy/github_series-2/commits?author=riya51" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/riya51"><img src="https://avatars3.githubusercontent.com/u/58393932?v=4" width="30px;" alt=""/><br /><sub><b>riya51</b></sub></a><br /><a href="https://github.com/codewayy/github_series-2/commits?author=riya51" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/amisha-chauhan"><img src="https://avatars3.githubusercontent.com/u/58393932?v=4" width="30px;" alt=""/><br /><sub><b>riya51</b></sub></a><br /><a href="https://github.com/codewayy/github_series-2/commits?author=amisha-chauhan" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/yash3110"><img src="https://avatars3.githubusercontent.com/u/58393932?v=4" width="30px;" alt=""/><br /><sub><b>riya51</b></sub></a><br /><a href="https://github.com/codewayy/github_series-2/commits?author=yash3110" title="Code">💻</a></td>
   </tr>
 </table>
 
