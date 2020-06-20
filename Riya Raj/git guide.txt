@@ -1,0 +1,59 @@
+# GIT AND GITHUB GUIDE
+
+* GIT AND GIT HUB
++GIT is a free, open source distributed version control system tool designed to handle everything from small to  Git hub is a web - based version control and collaboration platform for software. It is free of cost.
+git hub is the worlds largest software devlopement platform. It is so popular and used in most of the projects. It provides secure secure cloud storage for source
+code.It supports all programming language.
+
+## SOME OF THE FUNDAMENTAL ELEMENTS OF GIT
+
+*GIT WORKFLOW
++ Git has a simple workflow workspace to index, index to local repository, local repository to remote repository.Index also known as stage.Local repository also known 
+as head.
+
+*GIT COMMIT
++ Commmit add the file to workspace to index. In this we mention minus u as syntax. when we execute git commit all the files are released from here, they changes
+to local repository.
+
+*GIT DIFF 
++ Git diff is used in git to track the difference between the made  on a file.It helps us to keep track of the changes made on a file.It helps us to analyze
+the state of git repo.
+
+*GIT PUSH
++ It pushes the changes that are in local remote repository.We can say that it update the remote repository.
+
+*CLONE COMMAND
++If we are gaining ascess to a remote repository then we have to copy the URL and give update to create a local copy of repository in workspace.
+
+*ADD COMMMAND
++ This command will add the file in the workspace to the index so we can call this file as staged file.
+
+*FETCH COMMAND 
++This is used to get files from remote to local repository.
+
+*MERGE COMMAND
++This helps to combine insert, update,and delete operation into one statement.
+
+#FORK IN GIT
++Fork in git means making a personal copy of someone repository.We can fork any repository by clicking on the fork option.It helps us to modify or make changes 
+in someone repository.
+
+#BRANCHES IN GIT
+*A branch in github can be said as files inside a git repository.The main repository is master. We can create many branches in git by using <git branch branch name>.
+to enter into a branch give <git checkout branch name>.
+
+#GIT PULL
++ It is of informing others that you have made changes in a particular project of a branch. Once we made a pull requestwe are requesting others to review our changes.
+
+#MERGE CONFLICT
++ It happens usually when many of them are woring on same prject. when two people change the same line in same file git confuse and mark this file as merge conflict.
+To see merge conflict we usually type <git status>.Signs like <<<<<< >>>>>> this will apppear this are conflict dividers.
+
+#ISSUE IN GIT
++ We use issue to track ideas,enchancement,ideas on github.They are a kind of email which shared and discussed within your team mates.
+
+HOPE YOU HAVE GOT KNOWLEDGE ABOUT GIT AND GIT HUB.
+
+REGARDS
+RIYA RAJ
+
